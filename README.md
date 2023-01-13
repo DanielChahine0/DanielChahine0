@@ -9,13 +9,10 @@ I’m currently a first year student @ York University studying computer science
 
 
 ---
-**✨Current Repositories: 2✨**
+**✨Current Repositories: 1✨**
 
 Personal Programs:
 - Chess Game
-
-University Classes: 
-- EECS-1022 (Introduction To Object Oriented Programming)
 ---
 
 
