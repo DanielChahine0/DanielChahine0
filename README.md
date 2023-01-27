@@ -9,10 +9,11 @@ I’m currently a first year student @ York University studying computer science
 
 
 ---
-**✨Current Repositories: 1✨**
+**✨Current Repositories: 2✨**
 
 Personal Programs:
 - Chess Game
+- Fitness Website
 ---
 
 
