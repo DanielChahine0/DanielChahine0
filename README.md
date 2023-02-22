@@ -11,7 +11,8 @@ The computer was born to solve problems that did not exist before
 
 Personal Programs:
 
-Chess Game - Fitness Website
+- ♟️ Chess Game 
+- 💪 Fitness Website
 
 <div align="center">
 
