@@ -8,11 +8,13 @@ It contains my personal projects.
 I’m currently a first year student @ York University studying computer science💻.
 
 <div align="center">
+  
 ## ✨ Current Repositories: 2
 
 Personal Programs:
   <br>
 Chess Game - Fitness Website
+  
 </div>
 
 <div align="center">
@@ -35,6 +37,9 @@ Email: [Chahinedaniel0@gmail.com]
 </div>
 
 <div align="center">
+  
 ## 🔖 Stats
-![](https://komarev.com/ghpvc/?username=DanielChahine0&color=209ac9)
+
+  ![](https://komarev.com/ghpvc/?username=DanielChahine0&color=209ac9)
+
 </div>
