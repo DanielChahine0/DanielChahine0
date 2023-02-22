@@ -11,15 +11,13 @@ The computer was born to solve problems that did not exist before
   
   ## ✨ Current Repositories: 2
 
-  ###Personal Programs:
+</div>
+  Personal Programs:
 
   <br>
 
-  ####Chess Game
+Chess Game - Fitness Website
 
-  ####Fitness Website
-  
-</div>
 
 <div align="center">
 
