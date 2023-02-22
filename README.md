@@ -38,5 +38,7 @@ Email: [Chahinedaniel0@gmail.com]
 ## 🔖 Stats
 
   ![](https://komarev.com/ghpvc/?username=DanielChahine0&color=209ac9)
+  
+  <a href=#><img src="contributions.svg"></a>
 
 </div>
