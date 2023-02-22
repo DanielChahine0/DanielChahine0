@@ -25,19 +25,22 @@ Fitness Website
 </div>
 
 <div align="center">
-
-## 📫 Reach Me
-
-Email: [Chahinedaniel0@gmail.com]
-Linkedin: [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/daniel-chahine-68355820a/)
-Github: [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/DanielChahine0)
-Instagram: [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/dxni.ch/)
+  
+  ## 📫 Reach Me
+  
+  Email: [Chahinedaniel0@gmail.com]
+  <br>
+  Linkedin: [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/daniel-chahine-68355820a/)
+  <br>
+  Github: [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/DanielChahine0)
+  <br>
+  Instagram: [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/dxni.ch/)
 
 </div>
 
 <div align="center">
-## 🔖 Stats
-
-![](https://komarev.com/ghpvc/?username=DanielChahine0&color=209ac9)
+  ## 🔖 Stats
+  
+  ![](https://komarev.com/ghpvc/?username=DanielChahine0&color=209ac9)
 
 </div>
