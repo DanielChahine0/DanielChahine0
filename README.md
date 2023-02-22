@@ -7,18 +7,11 @@ I’m currently a first year student @ York University studying computer science
 
 The computer was born to solve problems that did not exist before
 
-<div align="center">
-  
-  ## ✨ Current Repositories: 2
+## 🚧 Projects
 
-
-  Personal Programs:
-
-  <br>
+Personal Programs:
 
 Chess Game - Fitness Website
-
-</div>
 
 <div align="center">
 
