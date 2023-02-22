@@ -1,19 +1,23 @@
 # Hey everyone👋
 My name is Daniel Chahine, you can also call me Dani.
 
-This is my personal Github.
-
-It contains my personal projects.
+This is my personal Github and it contains my personal projects.
 
 I’m currently a first year student @ York University studying computer science💻.
 
+The computer was born to solve problems that did not exist before
+
 <div align="center">
   
-## ✨ Current Repositories: 2
+  ## ✨ Current Repositories: 2
 
-Personal Programs:
+  ###Personal Programs:
+
   <br>
-Chess Game - Fitness Website
+
+  ####Chess Game
+
+  ####Fitness Website
   
 </div>
 
