@@ -1,4 +1,4 @@
-### Hey everyone👋
+# Hey everyone👋
 My name is Daniel Chahine, you can also call me Dani.
 
 This is my personal Github.
@@ -8,12 +8,13 @@ It contains my personal projects.
 I’m currently a first year student @ York University studying computer science💻.
 
 <div align="center">
+  ---
+  ✨ Current Repositories: 2
 
-## ✨ Current Repositories: 2
-
-### Personal Programs:
-Chess Game
-Fitness Website
+  Personal Programs:
+  - Chess Game
+  - Fitness Website
+  ---
 </div>
 
 <div align="center">
@@ -30,11 +31,9 @@ Fitness Website
   
   Email: [Chahinedaniel0@gmail.com]
   <br>
-  Linkedin: [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/daniel-chahine-68355820a/)
-  <br>
-  Github: [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/DanielChahine0)
-  <br>
-  Instagram: [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/dxni.ch/)
+  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/daniel-chahine-68355820a/)
+  [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/DanielChahine0)
+  [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/dxni.ch/)
 
 </div>
 
