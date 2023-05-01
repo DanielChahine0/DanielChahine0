@@ -1,18 +1,24 @@
-# Hey everyone👋
-My name is Daniel Chahine, you can also call me Dani.
 
-This is my personal Github and it contains my personal projects.
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bree+Serif&size=30&pause=1000&color=1263F0&background=26FF4800&center=true&vCenter=true&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Daniel+Chahine;Welcome+to+my+Github+page;Feel+free+to+connect+with+me!" alt="Typing SVG" /></a>
+
+<img src="BG1.jpg"></a>
+</p>
+
+This is my personal GitHub, and it contains my personal projects.
 
 I’m currently a first year student @ York University studying computer science💻.
 
-The computer was born to solve problems that did not exist before
+
+<div align="center">
 
 ## 🚧 Projects
 
-Personal Programs:
 
-- ♟️ Chess Game 
-- 💪 Fitness Website
+#### I'm currently working on:
+♟️Chess Game  -  💪  Fitness Website - 🐦  Flappy Bird
+</div>
+
 
 <div align="center">
 
@@ -23,11 +29,13 @@ Personal Programs:
 </div>
 
 <div align="center">
-  
+
 ## 📫 Reach Me
   
-Email: [Chahinedaniel0@gmail.com]
-<br>
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=gcp)](mailto:chahinedaniel0@gmail.com)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/daniel-chahine-68355820a/)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/DanielChahine0)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/dxni.ch/)
@@ -42,3 +50,11 @@ Email: [Chahinedaniel0@gmail.com]
   <a href=#><img src="contributions.svg"></a>
 
 </div>
+
+#### - - - - - - - The computer was born to solve problems that did not exist before - - - - - - -
+
+In case any previous link is not working:
+- Email: Chahinedaniel0@gmail.com
+- LinkedIn: danielchahine
+- Github: DanielChahine0
+- Instagram: dxni.ch
