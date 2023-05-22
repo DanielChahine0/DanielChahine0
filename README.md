@@ -16,7 +16,7 @@ I’m currently a first year student @ York University studying computer science
 
 
 #### I'm currently working on:
-♟️Chess Game  -  💪  Fitness Website - 🐦  Flappy Bird
+♟️ Chess Game  - 💪 Fitness Website - 🐍 Snake
 </div>
 
 
