@@ -2,22 +2,11 @@
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bree+Serif&size=30&pause=1000&color=1263F0&background=26FF4800&center=true&vCenter=true&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Daniel+Chahine;Welcome+to+my+Github+page;Feel+free+to+connect+with+me!" alt="Typing SVG" /></a>
 
-<img src="BG1.jpg"></a>
 </p>
 
-This is my personal GitHub, and it contains my personal projects.
-
-I’m currently a first year student @ York University studying computer science💻.
+I’m currently a third year student @ York University studying computer science💻.
 
 
-<div align="center">
-
-## 🚧 Projects
-
-
-#### I'm currently working on:
-♟️ Chess Game  - 💪 Fitness Website - 🐍 Snake
-</div>
 
 
 <div align="center">
@@ -43,8 +32,6 @@ I’m currently a first year student @ York University studying computer science
 
 <div align="center">
   
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Stats
-
 
 
 ![](https://komarev.com/ghpvc/?username=DanielChahine0&color=209ac9)
