@@ -29,20 +29,3 @@ I’m currently a third year student @ York University studying computer science
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/DanielChahine0)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/dxni.ch/)
 </div>
-
-<div align="center">
-  
-
-
-![](https://komarev.com/ghpvc/?username=DanielChahine0&color=209ac9)
-<a href=#><img src="contributions.svg"></a>
-
-</div>
-
-#### - - - - - - - The computer was born to solve problems that did not exist before - - - - - - -
-
-In case any previous link is not working:
-- Email: Chahinedaniel0@gmail.com
-- LinkedIn: danielchahine
-- Github: DanielChahine0
-- Instagram: dxni.ch
