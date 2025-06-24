@@ -4,7 +4,7 @@
 
 </p>
 
-I’m currently a third year student @ York University studying computer science💻.
+I’m currently a fourth year student @ York University studying computer science💻.
 
 
 
