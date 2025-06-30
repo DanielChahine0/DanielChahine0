@@ -4,7 +4,25 @@
 
 </p>
 
-I’m currently a fourth year student @ York University studying computer science💻.
+I’m a fourth-year Computer Science student at York University (GPA 3.9/4.0) who loves turning ideas into code.
+
+## 🔧 Tech I use the most
+- Languages: Python, Java, C/C++, C#, JavaScript/TypeScript, SQL, Bash
+- Frameworks & Tools: React, Node.js/Express, Flask, MongoDB & PostgreSQL, PyTorch / JAX, Docker, Git/GitHub Actions, Unity, CustomTkinter
+- Interests: Machine learning, cybersecurity, systems programming, full-stack web, game dev
+
+## 🚀 Highlight projects
+- FitCoach – Fitness tracker with SQLite queries optimized 40% faster
+- Emotion Prediction – GPT-2 model that forecasts the next emotion in a dialogue
+- Think Board Web app (MERN + TS) – Real-time drag-and-drop task 
+- MMU & CPU Scheduler (C) – Simulated paging, TLB, and five classic scheduling algorithms
+- MindMaze – Award-winning educational game that gamifies discrete math concepts
+
+## 🌎 Others
+- Trilingual (English, French, Arabic) thanks to growing up in Quebec and Toronto
+- ICPC competitor & competitive-programming fan
+
+I’m always up for collaborating on interesting problems—whether it’s AI, security, or something totally new. Feel free to open an issue, shoot me a pull request, or just say hi!
 
 
 
