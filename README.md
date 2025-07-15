@@ -30,7 +30,7 @@ I’m always up for collaborating on interesting problems—whether it’s AI, s
 <div align="center">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,cs,c,cpp,bash,html,css&perline=10)](https://github.com/DanielChahine0)
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,php,cs,c,cpp,bash,html,css&perline=10)](https://github.com/DanielChahine0)
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tools
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,npm,vite,mongodb,redis,regex,express,nextjs,pytorch,flask,git,github,md,bootstrap,latex,linux,anaconda&perline=10)](https://github.com/DanielChahine0)
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Apps
