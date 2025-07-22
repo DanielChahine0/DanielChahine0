@@ -46,12 +46,12 @@ I’m always up for collaborating on interesting problems—whether it’s AI, s
 <div align="center">
 
 ## 📫 Reach Me
-  
-
-
-
-[![My Skills](https://skillicons.dev/icons?i=gcp)](mailto:chahinedaniel0@gmail.com)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/daniel-chahine-68355820a/)
-[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/DanielChahine0)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/dxni.ch/)
+[![My Skills](https://skillicons.dev/icons?i=gcp,linkedin,github,instagram&perline=4)](https://github.com/DanielChahine0)
 </div>
+
+---
+
+<!-- Visitor counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DanielChahine0&label=Profile+Visits&color=1263F0&style=flat-square" alt="Profile visit counter" />
+</p>
