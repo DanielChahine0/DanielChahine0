@@ -46,7 +46,20 @@ I’m always up for collaborating on interesting problems—whether it’s AI, s
 <div align="center">
 
 ## 📫 Reach Me
-[![My Skills](https://skillicons.dev/icons?i=gcp,linkedin,github,instagram&perline=4)](https://github.com/DanielChahine0)
+
+<a href="mailto:chahinedaniel0@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="GCP" />
+</a>
+<a href="https://www.linkedin.com/in/danielchahine/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+</a>
+<a href="https://github.com/DanielChahine0" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+</a>
+<a href="https://instagram.com/dxni.ch" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
+</a>
+
 </div>
 
 ---
