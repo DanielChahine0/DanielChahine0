@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://danielchahine0.github.io/">
+    <img src="Photo1.png" alt="Photo 1" width="350" />
+  </a>
+</p>
 
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bree+Serif&size=30&pause=1000&color=1263F0&background=26FF4800&center=true&vCenter=true&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Daniel+Chahine;Welcome+to+my+Github+page;Feel+free+to+connect+with+me!" alt="Typing SVG" /></a>
@@ -8,7 +13,7 @@
 
 #### 🔧 Tech I use the most
 - Languages: Python, Java, C/C++, C#, JavaScript/TypeScript, SQL, Bash
-- Frameworks & Tools: React, Node.js/Express, Flask, MongoDB & PostgreSQL, PyTorch / JAX, Docker, Git/GitHub Actions, Unity, CustomTkinter
+- Frameworks & Tools: React, Node.js/Express, Flask, MongoDB & PostgreSQL, PyTorch / JAX, Docker, Git/GitHub Actions, Unity.
 - Interests: Machine learning, cybersecurity, systems programming, full-stack web, game dev
 
 #### 🚀 Highlight projects
