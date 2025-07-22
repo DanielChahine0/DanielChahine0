@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://danielchahine0.github.io/">
-    <img src="Photo1.png" alt="Photo 1" />
+    <img src="Photo1.png" alt="Photo 1" width="750"/>
   </a>
 </p>
 
