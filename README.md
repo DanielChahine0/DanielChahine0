@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://danielchahine0.github.io/">
-    <img src="full logo.jpg" alt="Photo 1" width="750"/>
+    <img src="full logo.jpg" alt="Photo 1" width="700"/>
   </a>
 </p>
 
