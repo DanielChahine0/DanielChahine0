@@ -1,15 +1,6 @@
-<p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bree+Serif&size=30&pause=1000&color=1263F0&background=26FF4800&center=true&vCenter=true&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Daniel+Chahine;Welcome+to+my+Github+page;Feel+free+to+connect+with+me!" alt="Typing SVG" /></a>
-</p>
+## Daniel Chahine
 
-<p align="center">
-  <a href="https://danielchahine0.github.io/">
-    <img src="full logo with background.jpg" alt="Photo 1" width="700"/>
-  </a>
-</p>
-
-
-## I’m a fourth-year Computer Science student at York University (GPA 3.9/4.0) who loves turning ideas into code.
+### I’m a fourth-year Computer Science student at York University (GPA 3.9/4.0) who loves turning ideas into code.
 
 #### Tech I use the most
 - Languages: Python, Java, C/C++, C#, JavaScript/TypeScript, SQL, Bash
@@ -32,18 +23,18 @@ I’m always up for collaborating on interesting problems—whether it’s AI, s
 
 
 
-<div align="center">
+<div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,php,cs,c,cpp,bash,html,css&perline=10)](https://github.com/DanielChahine0)
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,php,cs,c,cpp,bash,html,css)](https://github.com/DanielChahine0)
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tools
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,npm,vite,mongodb,redis,regex,express,nextjs,pytorch,flask,git,github,md,bootstrap,latex,linux,anaconda&perline=10)](https://github.com/DanielChahine0)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,npm,vite,mongodb,redis,regex,express,nextjs,pytorch,flask,git,github,md,bootstrap,latex,linux,anaconda)](https://github.com/DanielChahine0)
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Apps
-[![My Skills](https://skillicons.dev/icons?i=stackoverflow,unity,postgres,postman,pycharm,idea,eclipse,vscode,figma&perline=10)](https://github.com/DanielChahine0)
+[![My Skills](https://skillicons.dev/icons?i=stackoverflow,unity,postgres,postman,pycharm,idea,eclipse,vscode,figma)](https://github.com/DanielChahine0)
 
 </div>
 
-<div align="center">
+<div>
 
 ## 📫 Reach Me
 
@@ -64,7 +55,6 @@ I’m always up for collaborating on interesting problems—whether it’s AI, s
 
 ---
 
-<!-- Visitor counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DanielChahine0&label=Profile+Visits&color=1263F0&style=flat-square" alt="Profile visit counter" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=DanielChahine0&theme=dark&short_numbers=true)]()
+
+[![Profile visit counter](https://komarev.com/ghpvc/?username=DanielChahine0&label=Profile+Visits&color=1263F0&style=flat-square)]()
