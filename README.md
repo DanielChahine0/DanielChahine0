@@ -1,6 +1,6 @@
 ## Daniel Chahine
 
-### I’m a fourth-year Computer Science student at York University (GPA 3.9/4.0) who loves turning ideas into code.
+### I’m a fourth-year Computer Science student at York University (GPA 3.8/4.0) who loves turning ideas into code.
 
 #### Tech I use the most
 - Languages: Python, Java, C/C++, C#, JavaScript/TypeScript, SQL, Bash
