@@ -7,12 +7,17 @@
 - Frameworks & Tools: React, Node.js/Express, Flask, MongoDB & PostgreSQL, PyTorch / JAX, Docker, Git/GitHub Actions, Unity.
 - Interests: Machine learning, cybersecurity, systems programming, full-stack web, game dev
 
-#### Highlight projects
-- FitCoach – Fitness tracker with SQLite queries optimized 40% faster
-- Emotion Prediction – GPT-2 model that forecasts the next emotion in a dialogue
-- Think Board Web app (MERN + TS) – Real-time drag-and-drop task 
-- MMU & CPU Scheduler (C) – Simulated paging, TLB, and five classic scheduling algorithms
-- MindMaze – Award-winning educational game that gamifies discrete math concepts
+#### Featured projects
+- [Intern Compass](https://github.com/DanielChahine0/Intern-Compass) — RAG-powered onboarding assistant (TypeScript, React, Express, PostgreSQL, Gemini, Auth0)
+- [Kuik (eCommerce)](https://github.com/DanielChahine0/eCommerce) — Full-stack eCommerce app (Spring Boot, PostgreSQL, JWT auth, React/Vite, Redux, Docker)
+- [Think Board](https://github.com/DanielChahine0/Webapp-Think_Board) — Full-stack idea-capture workspace (MERN). Live: https://webapp-think-board.onrender.com/
+- [MyCalendar](https://github.com/DanielChahine0/Webapp-MyCalendar) — Self-hosted calendar web app with drag-and-drop scheduling (PHP + JS)
+- [Webpage Resource Fetch Analyzer](https://github.com/DanielChahine0/Webpage-Resource-Fetch-Analyzer) — Analyze a webpage’s resource sizes + performance score + treemap (vanilla JS)
+- [Examples: Turing Machines](https://github.com/DanielChahine0/Examples-Turing_Machine) — Educational Turing Machines in YAML with step-by-step explanations
+- [Emotion Prediction](https://github.com/DanielChahine0/Emotion-Prediction) — GPT-2 model to predict next emotion in a dialogue (PyTorch + Hugging Face)
+- [Portfolio Website](https://github.com/DanielChahine0/DanielChahine0.github.io) — Source code for my personal site: https://danielchahine0.github.io/
+
+More projects: https://github.com/DanielChahine0?tab=repositories
 
 #### Others
 - Trilingual (English, French, Arabic) thanks to growing up in Quebec and Toronto
