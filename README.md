@@ -8,16 +8,14 @@
 - Interests: Machine learning, cybersecurity, systems programming, full-stack web, game dev
 
 #### Featured projects
-- [Intern Compass](https://github.com/DanielChahine0/Intern-Compass) — RAG-powered onboarding assistant (TypeScript, React, Express, PostgreSQL, Gemini, Auth0)
-- [Kuik (eCommerce)](https://github.com/DanielChahine0/eCommerce) — Full-stack eCommerce app (Spring Boot, PostgreSQL, JWT auth, React/Vite, Redux, Docker)
-- [Think Board](https://github.com/DanielChahine0/Webapp-Think_Board) — Full-stack idea-capture workspace (MERN). Live: https://webapp-think-board.onrender.com/
-- [MyCalendar](https://github.com/DanielChahine0/Webapp-MyCalendar) — Self-hosted calendar web app with drag-and-drop scheduling (PHP + JS)
-- [Webpage Resource Fetch Analyzer](https://github.com/DanielChahine0/Webpage-Resource-Fetch-Analyzer) — Analyze a webpage’s resource sizes + performance score + treemap (vanilla JS)
-- [Examples: Turing Machines](https://github.com/DanielChahine0/Examples-Turing_Machine) — Educational Turing Machines in YAML with step-by-step explanations
-- [Emotion Prediction](https://github.com/DanielChahine0/Emotion-Prediction) — GPT-2 model to predict next emotion in a dialogue (PyTorch + Hugging Face)
-- [Portfolio Website](https://github.com/DanielChahine0/DanielChahine0.github.io) — Source code for my personal site: https://danielchahine0.github.io/
-
-More projects: https://github.com/DanielChahine0?tab=repositories
+- [Intern Compass](https://github.com/DanielChahine0/Intern-Compass): RAG-powered onboarding assistant (TypeScript, React, Express, PostgreSQL, Gemini, Auth0)
+- [Kuik (eCommerce)](https://github.com/DanielChahine0/eCommerce): Full-stack eCommerce app (Spring Boot, PostgreSQL, JWT auth, React/Vite, Redux, Docker)
+- [Webpage Resource Fetch Analyzer](https://github.com/DanielChahine0/Webpage-Resource-Fetch-Analyzer): Analyze a webpage’s resource sizes + performance score + treemap (vanilla JS)
+- [Think Board](https://github.com/DanielChahine0/Webapp-Think_Board): Full-stack idea-capture workspace (MERN).
+- [MyCalendar](https://github.com/DanielChahine0/Webapp-MyCalendar): Self-hosted calendar web app with drag-and-drop scheduling (PHP + JS)
+- [Examples: Turing Machines](https://github.com/DanielChahine0/Examples-Turing_Machine): Educational Turing Machines in YAML with step-by-step explanations
+- [Emotion Prediction](https://github.com/DanielChahine0/Emotion-Prediction): GPT-2 model to predict next emotion in a dialogue (PyTorch + Hugging Face)
+- [Portfolio Website](https://github.com/DanielChahine0/DanielChahine0.github.io): Source code for my personal site: https://danielchahine0.github.io/  
 
 #### Others
 - Trilingual (English, French, Arabic) thanks to growing up in Quebec and Toronto
