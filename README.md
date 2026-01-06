@@ -1,10 +1,7 @@
 # Daniel Chahine
----
-
-<h3 align="center"></h1>
 
 ### I’m a fourth-year Computer Science student at York University  who loves turning ideas into code.
-(GPA 3.8/4.0)
+<!-- (GPA 3.8/4.0) -->
 #### Tech I use the most
 - Languages: Python, Java, C/C++, C#, JavaScript/TypeScript, SQL, Bash
 - Frameworks & Tools: React, Node.js/Express, Flask, MongoDB & PostgreSQL, PyTorch / JAX, Docker, Git/GitHub Actions, Unity.
